@@ -53,22 +53,23 @@ or
 
 My 15-Day Progress Journal
 I documented my progress and shared my thoughts on each challenge daily on LinkedIn. You can follow my journey from Day 1 to Day 15 through the links below.
-Day 01: https://lnkd.in/gk3m5tqX
-Day 02: https://lnkd.in/gwSyuXJA
-Day 03: https://lnkd.in/gMp6-iQv
-Day 04: https://lnkd.in/gn8zP8-n
-Day 05: https://lnkd.in/gbfhafkR
-Day 06: https://lnkd.in/gTQgHcrQ
-Day 07: https://lnkd.in/gXVGvKHk
-Day 08: https://lnkd.in/gvBEy6Bq
-Day 09: https://lnkd.in/gxYnh6JZ
-Day 10: https://lnkd.in/gyQv76Fa
-Day 11: https://lnkd.in/gwtbDrni
-Day 12: https://lnkd.in/gb32QP8F
-Day 13: https://lnkd.in/g2PDD5Tx
-Day 14: https://lnkd.in/gfr7iE7q
-Day 15: https://lnkd.in/g_Z5rpam
+1. Day 01: https://lnkd.in/gk3m5tqX
+2. Day 02: https://lnkd.in/gwSyuXJA
+3. Day 03: https://lnkd.in/gMp6-iQv
+4. Day 04: https://lnkd.in/gn8zP8-n
+5. Day 05: https://lnkd.in/gbfhafkR
+6. Day 06: https://lnkd.in/gTQgHcrQ
+7. Day 07: https://lnkd.in/gXVGvKHk
+8. Day 08: https://lnkd.in/gvBEy6Bq
+9. Day 09: https://lnkd.in/gxYnh6JZ
+10. Day 10: https://lnkd.in/gyQv76Fa
+11. Day 11: https://lnkd.in/gwtbDrni
+12. Day 12: https://lnkd.in/gb32QP8F
+13. Day 13: https://lnkd.in/g2PDD5Tx
+14. Day 14: https://lnkd.in/gfr7iE7q
+15. Day 15: https://lnkd.in/g_Z5rpam
 
+---
 
 ## 🙏 A Word of Thanks
 
