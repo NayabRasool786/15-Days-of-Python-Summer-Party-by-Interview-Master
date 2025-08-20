@@ -51,8 +51,10 @@ or
 
 ---
 
-My 15-Day Progress Journal
+## My 15-Day Progress Journal
+
 I documented my progress and shared my thoughts on each challenge daily on LinkedIn. You can follow my journey from Day 1 to Day 15 through the links below.
+
 1. Day 01: https://lnkd.in/gk3m5tqX
 2. Day 02: https://lnkd.in/gwSyuXJA
 3. Day 03: https://lnkd.in/gMp6-iQv
